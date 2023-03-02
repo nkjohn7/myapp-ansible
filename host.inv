@@ -1,2 +1,2 @@
 [manage]
-172.31.9.97 ansible_user=ec2-user
+172.31.8.227 ansible_user=ec2-user
